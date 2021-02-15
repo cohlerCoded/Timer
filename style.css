@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+.instructions {
+  transition: 0 300ms all ease;
+}
+.btn {
+  border-radius: 25%;
+  font-weight: 500;
+  border: 2px solid black;
+}
